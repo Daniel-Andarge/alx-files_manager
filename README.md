@@ -1,7 +1,3 @@
-
-
-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
-
 # Files Manager
 
 This project is a compilation of back-end concepts: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
